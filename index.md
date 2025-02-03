@@ -34,34 +34,21 @@ Welcome to my portfolio! Below, you’ll find my **technical expertise, industry
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Technologies & Tools
+These are the tools and technologies I have hands-on experience with:
 
-- **Programming & Scripting:** Python, SQL, R, Spark  
-- **Analytics & BI Tools:** Power BI, Tableau, Excel, SQL Workbench, Minitab, Scikit-learn  
-- **Machine Learning & AI:** Predictive Modeling, Forecasting, A/B Testing, NLP  
-- **Big Data & Cloud:** AWS Redshift, S3, DynamoDB, Snowflake, Apache Kafka  
-- **Data Visualization:** KPI Dashboards, Business Metrics, Tableau Storytelling  
-
-<div class="tools-grid">
-  <!-- Database & BI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" alt="Power BI">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" alt="Tableau">
-
-  <!-- Python Stack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="NumPy">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scipy_2019_Logo.svg" alt="SciPy">
-
-  <!-- Cloud & Big Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka">
-
-  <!-- Analytics -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Google_Analytics_Logo.svg" alt="Google Analytics">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Minitab_logo.svg" alt="Minitab">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="80" height="40" alt="MySQL">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Powerbi.svg" width="80" height="40" alt="Power BI">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Tableau_Logo.svg" width="80" height="40" alt="Tableau">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" height="40" alt="Pandas">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80" height="40" alt="NumPy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Amazon_Web_Services_Logo.svg" width="80" height="40" alt="AWS">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Google_Analytics_Logo.svg" width="80" height="40" alt="Google Analytics">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Apache_Kafka.svg" width="80" height="40" alt="Apache Kafka">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="80" height="40" alt="Azure">
 </div>
+
 
 ---
 
