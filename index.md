@@ -38,20 +38,20 @@ Welcome to my portfolio! Below are my technical expertise, industry experience, 
 
 <div class="tools-grid">
   <!-- Database & BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Powerbi.svg" alt="Power BI">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Tableau_Logo.svg" alt="Tableau">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" alt="Power BI">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" alt="Tableau">
+
   <!-- Python Stack -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="NumPy">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scipy_2019_Logo.svg" alt="SciPy">
-  
+
   <!-- Cloud & Big Data -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Amazon_Web_Services_Logo.svg" alt="AWS">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Apache_Kafka.svg" alt="Kafka">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Azure">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka">
+
   <!-- Analytics -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Google_Analytics_Logo.svg" alt="Google Analytics">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Minitab_logo.svg" alt="Minitab">
