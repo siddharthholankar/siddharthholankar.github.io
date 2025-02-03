@@ -1,44 +1,32 @@
-/* Global Styling */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    text-align: center;
-    max-width: 900px;
-    margin: auto;
+/* Technology Logo Grid */
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+  padding: 1rem 0;
 }
 
-/* Header & Title */
-h1, h2, h3 {
-    color: #333;
+.tools-grid img {
+  width: 100%;
+  height: auto;
+  max-width: 150px;
+  transition: transform 0.3s ease;
+  margin: 0 auto;
 }
 
-/* Tech Stack Section */
-#tech-stack {
-    text-align: center;
-    margin: 50px 0;
+.tools-grid img:hover {
+  transform: scale(1.1);
 }
 
-.tech-logos {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 15px;
-    padding: 20px;
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .tools-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+  
+  .tools-grid img {
+    max-width: 80px;
+  }
 }
-
-.tech-logos img {
-    width: 100px;
-    height: auto;
-    transition: transform 0.3s ease-in-out;
-}
-
-.tech-logos img:hover {
-    transform: scale(1.1);
-}
-
-/* Project List */
-.project-list {
-    margin-left: 20px;
-    text-align: left;
-}
-
