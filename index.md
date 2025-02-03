@@ -37,16 +37,18 @@ Welcome to my portfolio! Below, you’ll find my **technical expertise, industry
 ## 🚀 Technologies & Tools
 These are the tools and technologies I have hands-on experience with:
 
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="80" height="40" alt="MySQL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Powerbi.svg" width="80" height="40" alt="Power BI">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Tableau_Logo.svg" width="80" height="40" alt="Tableau">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" height="40" alt="Pandas">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80" height="40" alt="NumPy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Amazon_Web_Services_Logo.svg" width="80" height="40" alt="AWS">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Google_Analytics_Logo.svg" width="80" height="40" alt="Google Analytics">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Apache_Kafka.svg" width="80" height="40" alt="Apache Kafka">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="80" height="40" alt="Azure">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="70" height="40" alt="MySQL">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" height="40" alt="Power BI">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Tableau_Logo.svg" width="70" height="40" alt="Tableau">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="70" height="40" alt="Pandas">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="70" height="40" alt="NumPy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scipy_2019_Logo.svg" width="70" height="40" alt="SciPy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Amazon_Web_Services_Logo.svg" width="70" height="40" alt="AWS">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Google_Analytics_Logo.svg" width="70" height="40" alt="Google Analytics">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Apache_Kafka.svg" width="70" height="40" alt="Apache Kafka">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="70" height="40" alt="Azure">
 </div>
 
 
