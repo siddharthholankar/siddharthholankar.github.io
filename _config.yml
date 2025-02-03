@@ -7,9 +7,11 @@ show_downloads: false
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 
-# Enable Custom CSS Styling
-include: ["assets/style.css"]
-
-# Plugins
+# Custom CSS
 plugins:
   - jekyll-remote-theme
+
+# Exclude unnecessary files
+exclude:
+  - README.md
+  - .nojekyll
