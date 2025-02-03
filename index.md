@@ -34,23 +34,35 @@ Welcome to my portfolio! Below, you’ll find my **technical expertise, industry
 
 ---
 
+
 ## 🚀 Technologies & Tools
+
 These are the tools and technologies I have hands-on experience with:
 
+<p align="center">
+    <!-- Programming -->
+    <img src="Assets/python-logo-generic.svg" width="40" height="40" alt="Python">
+    <img src="Assets/MySQL_textlogo.svg" width="50" height="40" alt="SQL">
+    <img src="Assets/R_logo.svg" width="40" height="40" alt="R">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="70" height="40" alt="MySQL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70" height="40" alt="Power BI">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Tableau_Logo.svg" width="70" height="40" alt="Tableau">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="70" height="40" alt="Pandas">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="70" height="40" alt="NumPy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scipy_2019_Logo.svg" width="70" height="40" alt="SciPy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Amazon_Web_Services_Logo.svg" width="70" height="40" alt="AWS">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Google_Analytics_Logo.svg" width="70" height="40" alt="Google Analytics">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Apache_Kafka.svg" width="70" height="40" alt="Apache Kafka">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="70" height="40" alt="Azure">
-</div>
+    <!-- Analytics & BI -->
+    <img src="Assets/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI">
+    <img src="Assets/Tableau.svg" width="40" height="40" alt="Tableau">
+    <img src="Assets/Microsoft_Office_Excel_(2019–present).svg" width="40" height="40" alt="Excel">
 
+    <!-- Data Science -->
+    <img src="Assets/Pandas_logo.svg" width="40" height="40" alt="Pandas">
+    <img src="Assets/NumPy_logo_2020.svg" width="40" height="40" alt="NumPy">
+    <img src="Assets/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn">
+
+    <!-- Big Data & Cloud -->
+    <img src="Assets/Microsoft_Azure_Logo.svg" width="50" height="40" alt="Azure">
+    <img src="Assets/aws-2.svg" width="50" height="40" alt="AWS">
+    <img src="Assets/Apache_Spark_logo.svg" width="50" height="40" alt="Apache Spark">
+
+    <!-- ETL & Workflow -->
+    <img src="Assets/minitab-corp-logo.svg" width="50" height="40" alt="Minitab">
+</p>
 
 ---
 
