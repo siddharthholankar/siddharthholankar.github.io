@@ -41,27 +41,27 @@ These are the tools and technologies I have hands-on experience with:
 
 <p align="center">
     <!-- Programming -->
-    <img src="Assets/python-logo-generic.svg" width="40" height="40" alt="Python">
-    <img src="Assets/MySQL_textlogo.svg" width="50" height="40" alt="SQL">
-    <img src="Assets/R_logo.svg" width="40" height="40" alt="R">
+    <img src="assets/python-logo-generic.svg" width="35" height="35" alt="Python">
+    <img src="assets/MySQL_textlogo.svg" width="40" height="35" alt="SQL">
+    <img src="assets/R_logo.svg" width="35" height="35" alt="R">
 
     <!-- Analytics & BI -->
-    <img src="Assets/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI">
-    <img src="Assets/Tableau.svg" width="40" height="40" alt="Tableau">
-    <img src="Assets/Microsoft_Office_Excel_(2019–present).svg" width="40" height="40" alt="Excel">
+    <img src="assets/New_Power_BI_Logo.svg" width="35" height="35" alt="Power BI">
+    <img src="assets/Tableau.svg" width="35" height="35" alt="Tableau">
+    <img src="assets/Microsoft_Office_Excel_(2019–present).svg" width="35" height="35" alt="Excel">
 
     <!-- Data Science -->
-    <img src="Assets/Pandas_logo.svg" width="40" height="40" alt="Pandas">
-    <img src="Assets/NumPy_logo_2020.svg" width="40" height="40" alt="NumPy">
-    <img src="Assets/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn">
+    <img src="assets/Pandas_logo.svg" width="35" height="35" alt="Pandas">
+    <img src="assets/NumPy_logo_2020.svg" width="35" height="35" alt="NumPy">
+    <img src="assets/Scikit_learn_logo_small.svg" width="35" height="35" alt="Scikit-learn">
 
     <!-- Big Data & Cloud -->
-    <img src="Assets/Microsoft_Azure_Logo.svg" width="50" height="40" alt="Azure">
-    <img src="Assets/aws-2.svg" width="50" height="40" alt="AWS">
-    <img src="Assets/Apache_Spark_logo.svg" width="50" height="40" alt="Apache Spark">
+    <img src="assets/Microsoft_Azure_Logo.svg" width="40" height="35" alt="Azure">
+    <img src="assets/aws-2.svg" width="40" height="35" alt="AWS">
+    <img src="assets/Apache_Spark_logo.svg" width="40" height="35" alt="Apache Spark">
 
     <!-- ETL & Workflow -->
-    <img src="Assets/minitab-corp-logo.svg" width="50" height="40" alt="Minitab">
+    <img src="assets/minitab-corp-logo.svg" width="40" height="35" alt="Minitab">
 </p>
 
 ---
