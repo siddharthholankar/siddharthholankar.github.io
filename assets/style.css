@@ -1,1 +1,44 @@
+/* Global Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    text-align: center;
+    max-width: 900px;
+    margin: auto;
+}
+
+/* Header & Title */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Tech Stack Section */
+#tech-stack {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.tech-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    padding: 20px;
+}
+
+.tech-logos img {
+    width: 100px;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+}
+
+.tech-logos img:hover {
+    transform: scale(1.1);
+}
+
+/* Project List */
+.project-list {
+    margin-left: 20px;
+    text-align: left;
+}
 
