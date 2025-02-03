@@ -3,14 +3,15 @@ layout: default
 title: Siddharth Holankar
 ---
 
-# 👋 Hello, I'm Siddharth Holankar
+# 👋 Hello, I’m **Siddharth Holankar**
 
 I am an aspiring **Business Analyst and Data Scientist** passionate about leveraging **machine learning, analytics, and visualization** to drive **strategic decision-making**.
 
 📌 **Available for full-time opportunities from May 2025!**
 
-## 🚀 Technologies & Tools
+---
 
+## 🚀 **Technologies & Tools**
 These are the tools and technologies I have hands-on experience with:
 
 <p align="center">
@@ -28,14 +29,16 @@ These are the tools and technologies I have hands-on experience with:
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="100" height="50" alt="Microsoft Azure">
 </p>
 
-## 📂 Projects
+---
 
-- **[Project 1: Optimizing Employee Scheduling](#)** - Using Python & Linear Programming
-- **[Project 2: Analyzing Unstructured Data](#)** - Movie Revenue Analysis with Python & Pandas
-- **[Project 3: Predictive Analytics for Logistics](#)** - ML-based forecasting for supply chain
+## 📂 **Projects**
+- **[Project 1: Optimizing Employee Scheduling](#)** - Using Python & Linear Programming  
+- **[Project 2: Analyzing Unstructured Data](#)** - Movie Revenue Analysis with Python & Pandas  
+- **[Project 3: Predictive Analytics for Logistics](#)** - ML-based forecasting for supply chain  
 
-## 📬 Let's Connect!
+---
 
+## 📬 **Let’s Connect!**
 📧 [sholanka@asu.edu](mailto:sholanka@asu.edu)  
 🔗 [LinkedIn](https://linkedin.com/in/sholankar/)  
 💻 [GitHub](https://github.com/siddharthholankar)  
