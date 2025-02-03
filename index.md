@@ -28,40 +28,41 @@ Welcome to my portfolio! Below, you’ll find my **technical expertise, industry
 📍 Pune, India  
 **Bachelor of Business Administration in International Business** *(GPA: 9.1/10.0)*  
 - **Key Focus Areas:**  
-  - **Market Analytics & Financial Modeling**  
-  - **Global Operations & Supply Chain Management**  
-  - **Strategic Decision-Making Using Data-Driven Insights**  
+  - Market Analytics & Financial Modeling  
+  - Global Operations & Supply Chain Management  
+  - Strategic Decision-Making Using Data-Driven Insights  
 
 ---
-
 
 ## 🚀 Technologies & Tools
 
 These are the tools and technologies I have hands-on experience with:
 
 <p align="center">
-    <!-- Programming -->
-    <img src="assets/python-logo-generic.svg" width="35" height="35" alt="Python">
-    <img src="assets/MySQL_textlogo.svg" width="40" height="35" alt="SQL">
-    <img src="assets/R_logo.svg" width="35" height="35" alt="R">
 
-    <!-- Analytics & BI -->
-    <img src="assets/New_Power_BI_Logo.svg" width="35" height="35" alt="Power BI">
-    <img src="assets/Tableau.svg" width="35" height="35" alt="Tableau">
-    <img src="assets/Microsoft_Office_Excel_(2019–present).svg" width="35" height="35" alt="Excel">
+<!-- Programming -->
+<img src="assets/python-logo-generic.svg" width="40" height="40" alt="Python">
+<img src="assets/MySQL_textlogo.svg" width="50" height="40" alt="SQL">
+<img src="assets/R_logo.svg" width="40" height="40" alt="R">
 
-    <!-- Data Science -->
-    <img src="assets/Pandas_logo.svg" width="35" height="35" alt="Pandas">
-    <img src="assets/NumPy_logo_2020.svg" width="35" height="35" alt="NumPy">
-    <img src="assets/Scikit_learn_logo_small.svg" width="35" height="35" alt="Scikit-learn">
+<!-- Analytics & BI -->
+<img src="assets/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI">
+<img src="assets/Tableau.svg" width="40" height="40" alt="Tableau">
+<img src="assets/Microsoft_Office_Excel_(2019–present).svg" width="40" height="40" alt="Excel">
 
-    <!-- Big Data & Cloud -->
-    <img src="assets/Microsoft_Azure_Logo.svg" width="40" height="35" alt="Azure">
-    <img src="assets/aws-2.svg" width="40" height="35" alt="AWS">
-    <img src="assets/Apache_Spark_logo.svg" width="40" height="35" alt="Apache Spark">
+<!-- Data Science -->
+<img src="assets/Pandas_logo.svg" width="40" height="40" alt="Pandas">
+<img src="assets/NumPy_logo_2020.svg" width="40" height="40" alt="NumPy">
+<img src="assets/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn">
 
-    <!-- ETL & Workflow -->
-    <img src="assets/minitab-corp-logo.svg" width="40" height="35" alt="Minitab">
+<!-- Big Data & Cloud -->
+<img src="assets/Microsoft_Azure_Logo.svg" width="50" height="40" alt="Azure">
+<img src="assets/aws-2.svg" width="50" height="40" alt="AWS">
+<img src="assets/Apache_Spark_logo.svg" width="50" height="40" alt="Apache Spark">
+
+<!-- ETL & Workflow -->
+<img src="assets/minitab-corp-logo.svg" width="50" height="40" alt="Minitab">
+
 </p>
 
 ---

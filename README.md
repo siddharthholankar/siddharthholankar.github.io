@@ -24,7 +24,7 @@ Welcome to my portfolio repository! This repository hosts my **professional port
 ## 🛠️ Technical Skills
 
 - **Programming:** Python, SQL, R, Spark  
-- **Analytics & BI Tools:** Power BI, Tableau, Excel, SQL Workbench, Minitab, Scikit-learn  
+- **Analytics & BI Tools:** Power BI, Tableau, Excel, SQL Workbench, Minitab, scikit-learn  
 - **Data Science & AI:** Machine Learning, Statistical Modeling, Forecasting, A/B Testing, Time-Series Analysis, ETL  
 - **Big Data & Cloud:** AWS Redshift, S3, DynamoDB, Data Warehousing  
 - **Visualization & Reporting:** KPI Dashboards, Business Metrics, CRISP-DM, Agile Analytics  
@@ -35,7 +35,7 @@ Welcome to my portfolio repository! This repository hosts my **professional port
 
 ### **DHL Supply Chain** *(Jan 2025 – Present)*
 📍 Tempe, Arizona  
-**Business Analyst Intern**
+**Business Analyst Intern**  
 - Analyzed **logistics and supply chain data** to enhance **out-of-office-hours (OOH) network operations**, improving emergency delivery response time by **30%**.
 - Designed **real-time monitoring dashboards** using **Power BI and Tableau** to track shipment performance.
 - Implemented **geocoding-based machine learning models** to **automate missing dataset values**, increasing data accuracy by **30%**.
@@ -45,7 +45,7 @@ Welcome to my portfolio repository! This repository hosts my **professional port
 
 ### **Morningstar (PitchBook)** *(Dec 2022 – Jul 2024)*
 📍 Mumbai, India  
-**Data Research Analyst**
+**Data Research Analyst**  
 - Conducted in-depth research on **3,500+ early-stage companies**, identifying investment patterns and market trends.
 - Delivered **50+ analytical reports** for **major investment banks** (JP Morgan, BlackRock, Goldman Sachs, Barclays) to refine investment strategies.
 - Evaluated **2,000+ venture-backed companies**, generating financial projections and insights for IPO planning.
@@ -55,7 +55,7 @@ Welcome to my portfolio repository! This repository hosts my **professional port
 
 ### **FUEL (Friends Union for Energizing Lives)** *(Dec 2021 – Nov 2022)*
 📍 Pune, India  
-**Business Intelligence Analyst**
+**Business Intelligence Analyst**  
 - Engineered **data pipelines and optimized ETL processes using SQL**, reducing **data retrieval time by 60%**.
 - Automated **Excel-based reporting dashboards**, reducing **report generation time by 30%** and enhancing decision-making.
 - Designed **custom dashboards** for corporate clients such as **HDFC Bank, Capgemini, Citi, Government of India, DBS, and Standard Chartered**.
@@ -111,5 +111,3 @@ Welcome to my portfolio repository! This repository hosts my **professional port
 📧 **Email:** [sholanka@asu.edu](mailto:sholanka@asu.edu)  
 🔗 **LinkedIn:** [linkedin.com/in/sholankar/](https://linkedin.com/in/sholankar/)  
 📂 **Portfolio Website:** [siddharthholankar.github.io](https://siddharthholankar.github.io)  
-
----
