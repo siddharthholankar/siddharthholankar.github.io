@@ -2,7 +2,14 @@ title: Siddharth Holankar
 logo: "/assets/IMG_1736676340698.jpeg"
 description: Aspiring Business Analyst | Former Data Analyst at Morningstar | Transforming Data Into Strategic Decisions
 show_downloads: false
+
+# Theme Settings
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
+
+# Enable Custom CSS Styling
+include: ["assets/style.css"]
+
+# Plugins
 plugins:
   - jekyll-remote-theme
