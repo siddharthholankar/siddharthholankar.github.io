@@ -1,5 +1,28 @@
-title: Siddharth Holankar
-logo: /assets/IMG_1736676340698.jpeg
-description: Aspiring Business Analyst | Former Data Analyst at Morningstar | Transforming Data Into Strategic Decisions
-show_downloads: false
-theme: jekyll-theme-minimal
+#title: Siddharth Holankar
+#logo: /assets/IMG_1736676340698.jpeg
+#description: Aspiring Business Analyst | Former Data Analyst at Morningstar | Transforming Data Into Strategic Decisions
+#show_downloads: false
+#theme: jekyll-theme-minimal
+
+title: Siddharth Holankar  # Your name or website title
+logo: "/assets/IMG_1736676340698.jpeg"  # Your photo or logo
+description: >  # Your text below (remove <br> elements if you don't need line breaks)
+  Aspiring Business Analyst | Former Data Analyst at Morningstar | Transforming Data Into Strategic Decisions  
+  <br><br>
+  <a href="https://www.linkedin.com/in/sholankar/">View My LinkedIn Profile</a><br>
+  <a href="https://public.tableau.com/app/profile/siddharth.holankar">View My Tableau Public Profile</a><br>
+
+<footer>
+  <ul class="icons">
+    <li><a href="https://public.tableau.com/app/profile/siddharth.holankar" class="icon solid fa-chart-bar"><span class="label">Tableau</span></a></li>
+    <li><a href="https://github.com/siddharthholankar" class="icon brands fa-github"><span class="label">Github</span></a></li>
+    <li><a href="https://www.linkedin.com/in/sholankar/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+    <li><a href="https://instagram.com/YOUR_INSTAGRAM" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+  </ul>
+</footer>
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+google_analytics: UA-000000-0  # Add your Google Analytics tracking ID here if needed
